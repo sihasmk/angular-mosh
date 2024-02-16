@@ -1,0 +1,7 @@
+<i
+  class="fa"
+  [class.fa-heart]="isLiked"
+  [class.fa-heart-o]="!isLiked"
+  (click)="onClick()"
+></i>
+<h6>{{ likesCount }}</h6>
