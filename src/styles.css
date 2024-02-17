@@ -5,3 +5,9 @@
 body {
   padding: 20px;
 }
+
+button {
+  cursor: pointer;
+  margin-right: 10px;
+  margin-bottom: 8px;
+}

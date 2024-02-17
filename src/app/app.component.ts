@@ -7,9 +7,8 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  tweet = {
-    body: "body of the tweet...",
-    likesCount: 10,
-    isLiked: true
+  task = {
+    title: 'Review applications',
+    assignee: null
   }
 }
