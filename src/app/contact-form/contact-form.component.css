@@ -1,0 +1,17 @@
+textarea,
+input {
+  margin-bottom: 10px;
+}
+
+.checkbox input {
+  margin-right: 4px;
+}
+
+.checkbox div {
+  display: flex;
+  align-items: center;
+}
+
+.radio input {
+  margin-right: 4px;
+}
